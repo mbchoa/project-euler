@@ -1,2 +1,3 @@
 # project-euler
-Source code solutions for Project Euler problems
+
+This package contains mbchoa's program code to solve Project Euler problems.
